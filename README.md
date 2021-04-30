@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/deannellis/deannellis/main/github_cover.png "Header")](https://deannellis.me/)
 
 <h1 align="center">Greetings 👋</h1>
-<h3 align="center">Hi, I'm Dean. I have worn many hats over the years: UX researcher, UI designer, and front-end developer. Currently I work at Lexmark as a visual designer, creating attractive and intuitive digital experiences for our customers.</h3>
+<h3 align="center">Hi, I'm Dean. I have worn many hats over the years: UX researcher, UI designer, and front-end developer. Currently I work at <a href="https://www.lexmark.com/">Lexmark</a> as a visual designer, creating attractive and intuitive digital experiences for our customers.</h3>
 
 - 📃 I’m currently working on [kami](https://github.com/deannellis/kami)
 
@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **nellisdean@gmail.com**
 
-- 📄 Know about my experiences [https://deannellis.me/static/DeanNellis_Resume-e981fc7b058936d4c217cc77419be535.pdf](https://deannellis.me/static/DeanNellis_Resume-e981fc7b058936d4c217cc77419be535.pdf)
+- 📄 Check out my [resume](https://deannellis.me/static/DeanNellis_Resume-e981fc7b058936d4c217cc77419be535.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/dean-nellis-78b680b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dean-nellis-78b680b5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/dean-nellis-78b680b5" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
