@@ -1,7 +1,6 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/deannellis/deannellis/main/github_cover.png "Header")](https://deannellis.me/)
 
-<!--
-**deannellis/deannellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
