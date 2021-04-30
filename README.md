@@ -1,9 +1,10 @@
 [![Header](https://raw.githubusercontent.com/deannellis/deannellis/main/github_cover.png "Header")](https://deannellis.me/)
 
-<h1 align="center">Greetings 👋</h1>
 <h3 align="center">Hi, I'm Dean. I have worn many hats over the years: UX researcher, UI designer, and front-end developer. Currently I work at <a href="https://www.lexmark.com/">Lexmark</a> as a visual designer, creating attractive and intuitive digital experiences for our customers.</h3>
 
 - 📃 I’m currently working on [kami](https://github.com/deannellis/kami)
+
+- ⭐ I’m most proud of [flext](https://github.com/deannellis/flext)
 
 - 👨‍💻 All of my projects are available at [https://deannellis.me/](https://deannellis.me/)
 
